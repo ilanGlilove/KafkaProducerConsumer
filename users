@@ -1,0 +1,5 @@
+gmailSend = IlanEmailSend@gmail.com
+gmailSendPassword = IlanEmailSend12
+
+gmailReceive = IlanEmailRecive@gmail.com
+gmailReceivePassword = IlanEmailRecive12
